@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Local Op</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_age">Enter your age</string>
+    <string name="staff_member">Staff member</string>
+    <string name="it_student">IT Student</string>
+    <string name="banned_from_store">Banned from store</string>
+    <string name="check_discount_eligibility">Check Discount Eligibility</string>
+    <string name="result_will_display_here">Result will display here</string>
 </resources>
